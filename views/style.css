@@ -1,0 +1,13 @@
+
+.active{
+    color:rgb(160, 17, 17)
+}
+ul{
+    display:flex;
+    justify-content: space-evenly;
+    
+    list-style: none;
+}
+a{
+    text-decoration: none; 
+}
